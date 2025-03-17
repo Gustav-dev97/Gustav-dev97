@@ -5,14 +5,6 @@
 
 ## Some Of My Work: 
 
-- A Virtual library which allows you to search and read a series of books [Sapientum](https://sapientum.netlify.app/)
-
-- A Expense Tracker with graphics, filters and data export in both PDF and CSV [VuExpensio](https://vuexpensio.netlify.app/)
-
-- A React App that allows you to organize tasks, projects and your progress effectively [FluxuDo](https://fluxudo.netlify.app/)
-
-<br/>
-
  <table>
    <tr>
     <td valign="top">
@@ -29,6 +21,14 @@
     </td>
   </tr>
 </table>
+
+- A Virtual library which allows you to search and read a series of books [Sapientum](https://sapientum.netlify.app/)
+
+- A Expense Tracker with graphics, filters and data export in both PDF and CSV [VuExpensio](https://vuexpensio.netlify.app/)
+
+- A React App that allows you to organize tasks, projects and your progress effectively [FluxuDo](https://fluxudo.netlify.app/)
+
+<br/>
 
 ## 📈 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Gustav-dev97&theme=darcula&hide_border=true&include_all_commits=true&count_private=true)
