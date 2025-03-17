@@ -24,7 +24,7 @@
       🚀 I’m always looking for new challenges and opportunities to grow as a developer.
     </td>
     <!-- Coluna da direita -->
-    <td valign="top" width="100%">
+    <td valign="top" width="50%">
       <pre>
         <code>
 Gustav-Dev@github
