@@ -1,7 +1,7 @@
 ## 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=a4a4b0&size=40&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Gustavo;I'm+a+developer+from+Brazil)](https://git.io/typing-svg)
 
-<br/>
+<br>
 
 <div align="center">
  
@@ -15,39 +15,14 @@
 
 <br>
 
+## About Me
 🎓 I studied and graduated in Analysis and System Development and I have a passion for computers since I was a kid. <br> <br>
 💻 Nowadays I spend my time learning new technologies and creating applications that are functional and attractive. <br> <br>
 🚀 I’m always looking for new challenges and opportunities to grow as a developer.
 
-```java
+<br>
 
-public class GustavoDev {
-
-    private String username = "Gustav-Dev@github";
-    private String location = "Campinas, SP - Brazil";
-    private String[] languages = {"Portuguese", "English"};
-    private String[] favoriteTech = {"JavaScript", "Node.js", "Three.js", "Vue.js", "MongoDB"};
-    private String[] learning = {"Android Studio", "Kotlin", "Gradle"};
-    private String[] hobbies = {"History Documentaries", "Gaming", "Lifting Weights"};
-
-    public static void main(String[] args) {
-        GustavoDev gustavo = new GustavoDev();
-        gustavo.displayProfile();
-    }
-
-    public void displayProfile() {
-        System.out.println("👋 Olá, eu sou o " + username + "!");
-        System.out.println("📍 Localização: " + location);
-        System.out.println("🗣️  Idiomas: " + String.join(", ", languages));
-        System.out.println("💻 Tecnologias Favoritas: " + String.join(", ", favoriteTech));
-        System.out.println("📚 Aprendendo: " + String.join(", ", learning));
-        System.out.println("🎮 Hobbies: " + String.join(", ", hobbies));
-    }
-}
-
-```
-
-<br/>
+##
 
 ## Some Of My Work 
 
@@ -68,6 +43,8 @@ public class GustavoDev {
   </tr>
 </table>
 
+</br>
+
 - A Virtual library which allows you to search and read a series of books [Sapientum](https://sapientum.netlify.app/)
 
 - A Expense Tracker with graphics, filters and data export in both PDF and CSV [VuExpensio](https://vuexpensio.netlify.app/)
@@ -76,13 +53,13 @@ public class GustavoDev {
 
 ##
 
-<br/>
+<br>
 
 ## 📈 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Gustav-dev97&theme=darcula&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustav-dev97&theme=darcula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)  
 
-<br/>
+<br>
 
 ## 🔧 Technologies & Tools
 
@@ -90,8 +67,8 @@ public class GustavoDev {
 
 ##
 
-<br/>
-<br/>
+<br>
+<br>
 
 <p align="center">
  <a target="_blank" rel="noopener noreferrer" href="https://i.redd.it/1asyzovvrn8a1.gif"><img      src="https://i.redd.it/1asyzovvrn8a1.gif" alt="Github Stats" style="max-width: 100%;"></a>
