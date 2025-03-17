@@ -1,7 +1,10 @@
 ## About Me
-👋 I’m Gustavo, and I'm a developer from Brazil. <br>
-🎓 I studied and graduated in Analysis and System Development and I have a passion for computers since I was a kid. <br>
-💻 Nowadays I spend my time learning new technologies and creating applications that are functional and attractive. <br>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=a4a4b0&size=40&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Gustavo;I'm+a+developer+from+Brazil)](https://git.io/typing-svg)
+
+ <br>
+ 
+🎓 I studied and graduated in Analysis and System Development and I have a passion for computers since I was a kid. <br> <br>
+💻 Nowadays I spend my time learning new technologies and creating applications that are functional and attractive. <br> <br>
 🚀 I’m always looking for new challenges and opportunities to grow as a developer. 
 
 <br/>
