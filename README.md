@@ -1,4 +1,4 @@
-## About Me
+## 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=a4a4b0&size=40&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Gustavo;I'm+a+developer+from+Brazil)](https://git.io/typing-svg)
 
  <br>
