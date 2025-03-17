@@ -41,3 +41,7 @@
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-batista-6b7b91356) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/gustav-dev97) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gustavo.dev97@gmail.com) 
+
+<p align="center">
+ <a target="_blank" rel="noopener noreferrer" href="https://i.redd.it/1asyzovvrn8a1.gif"><img      src="https://i.redd.it/1asyzovvrn8a1.gif" alt="Github Stats" style="max-width: 100%;"></a>
+</p>
