@@ -1,21 +1,47 @@
 ## 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=a4a4b0&size=40&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Gustavo;I'm+a+developer+from+Brazil)](https://git.io/typing-svg)
 
- <br>
- 
-🎓 I studied and graduated in Analysis and System Development and I have a passion for computers since I was a kid. <br> <br>
-💻 Nowadays I spend my time learning new technologies and creating applications that are functional and attractive. <br> <br>
-🚀 I’m always looking for new challenges and opportunities to grow as a developer. 
-
 <br/>
 
-<div align="left">
+<div align="center">
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-batista-6b7b91356) 
 [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/gustav-dev97) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gustavo.dev97@gmail.com)
 
 </div>
+
+ <br>
+
+<table>
+  <tr>
+    <!-- Coluna da esquerda -->
+    <td valign="center" width="50%">
+      🎓 I studied and graduated in Analysis and System Development and I have a passion for computers since I was a kid. <br> <br>
+      💻 Nowadays I spend my time learning new technologies and creating applications that are functional and attractive. <br> <br>
+      🚀 I’m always looking for new challenges and opportunities to grow as a developer.
+    </td>
+    <!-- Coluna da direita -->
+    <td valign="top" width="50%">
+      <pre>
+        <code>
+Gustav-Dev@github
+-------------------------
+OS: Windows 11 x86_64
+Shell: bash 5.2.37
+Location: Campinas, SP - Brazil
+Languages: Portuguese, English
+Favorite Technologies: JavaScript, Node.js,
+           Three.js, Vue.js, MongoDB
+Learning: Android Studio, Kotlin, Gradle
+Hobbies: History Documentaries, Gaming, Lifting Weight's
+        </code>
+      </pre>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 ## Some Of My Work 
 
