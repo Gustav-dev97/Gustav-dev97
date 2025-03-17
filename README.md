@@ -13,16 +13,24 @@
 
 <br/>
 
-<a href="https://github.com/Gustav-dev97/NodeAPI-BoilerplateExample">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gustav-dev97&repo=NodeAPI-BoilerplateExample&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/Gustav-dev97/VueExpensio-VueExpenseTracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gustav-dev97&repo=VueExpensio-VueExpenseTracker&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>  
+ <table>
+   <tr>
+    <td valign="top">
+      <i>My last frontend project:</i><br><br>
+          <a href="https://github.com/Gustav-dev97/VueExpensio-VueExpenseTracker">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gustav-dev97&repo=VueExpensio-VueExpenseTracker&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+          </a>  
+    </td>
+    <td valign="top">
+     <i>My last backend project:</i><br><br>
+        <a href="https://github.com/Gustav-dev97/NodeAPI-BoilerplateExample">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gustav-dev97&repo=NodeAPI-BoilerplateExample&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+        </a>
+    </td>
+  </tr>
+</table>
 
 ## 📈 GitHub Stats
-![](https://nirzak-streak-stats.vercel.app/?user=Gustav-dev97&theme=darcula&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api?username=Gustav-dev97&theme=darcula&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustav-dev97&theme=darcula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)  
 
