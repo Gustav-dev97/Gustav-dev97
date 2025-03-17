@@ -13,35 +13,46 @@
 
 ##
 
- <br>
+<br>
 
-<table>
-  <tr>
-    <!-- Coluna da esquerda -->
-    <td valign="center" width="100%">
-      🎓 I studied and graduated in Analysis and System Development and I have a passion for computers since I was a kid. <br> <br>
-      💻 Nowadays I spend my time learning new technologies and creating applications that are functional and attractive. <br> <br>
-      🚀 I’m always looking for new challenges and opportunities to grow as a developer.
-    </td>
-    <!-- Coluna da direita -->
-    <td valign="top" width="50%">
-      <pre>
-        <code>
-Gustav-Dev@github
--------------------------
-OS: Windows 11 x86_64
-Shell: bash 5.2.37
-Location: Campinas, SP - Brazil
-Languages: Portuguese, English
-Favorite Technologies: JavaScript, Node.js,
-           Three.js, Vue.js, MongoDB
-Learning: Android Studio, Kotlin, Gradle
-Hobbies: History Documentaries, Gaming, Lifting Weight's
-        </code>
-      </pre>
-    </td>
-  </tr>
-</table>
+🎓 I studied and graduated in Analysis and System Development and I have a passion for computers since I was a kid. <br> <br>
+💻 Nowadays I spend my time learning new technologies and creating applications that are functional and attractive. <br> <br>
+🚀 I’m always looking for new challenges and opportunities to grow as a developer.
+
+```java
+/**
+ * Autor: Gustavo Batista (Gustav-Dev@github)
+ */
+public class GustavoDev {
+
+    private String username = "Gustav-Dev@github";
+    private String os = "Windows 11 x86_64";
+    private String shell = "zsh 5.8";
+    private String location = "Campinas, SP - Brazil";
+    private String[] languages = {"Portuguese", "English"};
+    private String[] favoriteTech = {"JavaScript", "Node.js", "Three.js", "Vue.js", "MongoDB"};
+    private String[] learning = {"Android Studio", "Kotlin", "Gradle"};
+    private String[] hobbies = {"History Documentaries", "Gaming", "Lifting Weights"};
+
+    public static void main(String[] args) {
+        GustavoDev gustavo = new GustavoDev();
+        gustavo.displayProfile();
+    }
+
+    public void displayProfile() {
+        System.out.println("👋 Olá, eu sou o " + username + "!");
+        System.out.println("🖥️  Sistema Operacional: " + os);
+        System.out.println("🐚 Shell: " + shell);
+        System.out.println("📍 Localização: " + location);
+        System.out.println("🗣️  Idiomas: " + String.join(", ", languages));
+        System.out.println("💻 Tecnologias Favoritas: " + String.join(", ", favoriteTech));
+        System.out.println("📚 Aprendendo: " + String.join(", ", learning));
+        System.out.println("🎮 Hobbies: " + String.join(", ", hobbies));
+        System.out.println("\n🚀 Sempre em busca de novos desafios e oportunidades para crescer como desenvolvedor!");
+    }
+}t's
+
+```
 
 <br/>
 
