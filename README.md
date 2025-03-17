@@ -1,5 +1,5 @@
 # About Me:
-👋 I’m Gustavo, and i'm a developer from Brazil. <br><br>🎓 I studied and graduated in Analysis and System Development and i have a passion for computers since i was a kid. <br><br>💻 Nowadays i spend my time learning new technologies and creating applications that are functional and attractive. <br><br>🚀 I’m always looking for new challenges and opportunities to grow as a developer. 
+👋 I’m Gustavo, and i'm a developer from Brazil. <br>🎓 I studied and graduated in Analysis and System Development and i have a passion for computers since i was a kid. <br>💻 Nowadays i spend my time learning new technologies and creating applications that are functional and attractive. <br>🚀 I’m always looking for new challenges and opportunities to grow as a developer. 
 
 
 ## 🌐 Socials:
