@@ -16,13 +16,13 @@
  <table>
    <tr>
     <td valign="top">
-      <i>My last frontend project:</i><br><br>
+      <i>My main frontend project:</i><br><br>
           <a href="https://github.com/Gustav-dev97/VueExpensio-VueExpenseTracker">
             <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gustav-dev97&repo=VueExpensio-VueExpenseTracker&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
           </a>  
     </td>
     <td valign="top">
-     <i>My last backend project:</i><br><br>
+     <i>My main backend project:</i><br><br>
         <a href="https://github.com/Gustav-dev97/NodeAPI-BoilerplateExample">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gustav-dev97&repo=NodeAPI-BoilerplateExample&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
         </a>
