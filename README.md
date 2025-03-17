@@ -11,18 +11,20 @@
 
 </div>
 
+##
+
  <br>
 
 <table>
   <tr>
     <!-- Coluna da esquerda -->
-    <td valign="center" width="50%">
+    <td valign="center" width="100%">
       🎓 I studied and graduated in Analysis and System Development and I have a passion for computers since I was a kid. <br> <br>
       💻 Nowadays I spend my time learning new technologies and creating applications that are functional and attractive. <br> <br>
       🚀 I’m always looking for new challenges and opportunities to grow as a developer.
     </td>
     <!-- Coluna da direita -->
-    <td valign="top" width="50%">
+    <td valign="top" width="100%">
       <pre>
         <code>
 Gustav-Dev@github
