@@ -22,7 +22,11 @@
 
 <br>
 
-##
+## 📈 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Gustav-dev97&theme=darcula&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustav-dev97&theme=darcula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)  
+
+<br>
 
 ## Some Of My Work 
 
@@ -50,14 +54,6 @@
 - A Expense Tracker with graphics, filters and data export in both PDF and CSV [VuExpensio](https://vuexpensio.netlify.app/)
 
 - A React App that allows you to organize tasks, projects and your progress effectively [FluxuDo](https://fluxudo.netlify.app/)
-
-##
-
-<br>
-
-## 📈 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Gustav-dev97&theme=darcula&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustav-dev97&theme=darcula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)  
 
 <br>
 
