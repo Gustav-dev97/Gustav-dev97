@@ -106,65 +106,137 @@
 ### **Programming Languages**
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="44" height="44" title="JavaScript"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="44" height="44" title="Python"/>
+  </a>&nbsp;&nbsp;
+<a href="https://www.java.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+       alt="Java"
+       width="44"
+       height="44"
+       title="Java"/>
+</a>&nbsp;&nbsp;
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/kotlin/7F52FF" alt="Kotlin" width="44" height="44" title="Kotlin"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/c/659AD2" alt="C" width="44" height="44" title="C"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/php/777BB4" alt="PHP" width="44" height="44" title="PHP"/>
+  </a>
 </p>
 
 ### **Frontend Development**
 
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
-  <a href="https://canvasjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/></a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/></a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="44" height="44" title="HTML5"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/css/1572B6" alt="CSS3" width="44" height="44" title="CSS3"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="44" height="44" title="React"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue.js" width="44" height="44" title="Vue.js"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="Bootstrap" width="44" height="44" title="Bootstrap"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" width="44" height="44" title="Tailwind CSS"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" alt="Next.js" width="44" height="44" title="Next.js"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.chartjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="Chart.js" width="44" height="44" title="Chart.js"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://threejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/threedotjs/FFFFFF" alt="Three.js" width="44" height="44" title="Three.js"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://gsap.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/greensock/88CE02" alt="GSAP" width="44" height="44" title="GSAP"/>
+  </a>
 </p>
 
 ### **Backend & Frameworks**
 
 <p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" alt="Node.js" width="44" height="44" title="Node.js"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/express/FFFFFF" alt="Express.js" width="44" height="44" title="Express.js"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/django/44B78B" alt="Django" width="44" height="44" title="Django"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/spring/6DB33F" alt="Spring" width="44" height="44" title="Spring"/>
+  </a>
 </p>
 
 ### **Databases**
 
 <p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" width="44" height="44" title="MongoDB"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="44" height="44" title="MySQL"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" width="44" height="44" title="PostgreSQL"/>
+  </a>
 </p>
 
 ### **DevOps & Cloud**
 
 <p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="44" height="44" title="Docker"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/kubernetes/326CE5" alt="Kubernetes" width="44" height="44" title="Kubernetes"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="44" height="44" title="Git"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/googlecloud/4285F4" alt="Google Cloud" width="44" height="44" title="Google Cloud"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Bash" width="44" height="44" title="Bash"/>
+  </a>&nbsp;&nbsp;
 </p>
 
 ### **Tools & Others**
 
 <p align="left">
-  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman" width="44" height="44" title="Postman"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" alt="TensorFlow" width="44" height="44" title="TensorFlow"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" width="44" height="44" title="Pandas"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/opencv/5C3EE8" alt="OpenCV" width="44" height="44" title="OpenCV"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/android/3DDC84" alt="Android" width="44" height="44" title="Android"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/blender/E87D0D" alt="Blender" width="44" height="44" title="Blender"/>
+  </a>
 </p>
 
 ##
