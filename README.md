@@ -29,24 +29,22 @@
 <br>
 
 ## Some Of My Work 
-
  <table>
    <tr>
     <td valign="top">
       <i>My main frontend project:</i><br><br>
           <a href="https://github.com/Gustav-dev97/VueExpensio-VueExpenseTracker">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gustav-dev97&repo=VueExpensio-VueExpenseTracker&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+            <img align="center" src="https://github-readme-stats-blond-two-95.vercel.app/api/pin/?username=Gustav-dev97&repo=VueExpensio-VueExpenseTracker&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
           </a>  
     </td>
     <td valign="top">
      <i>My main backend project:</i><br><br>
         <a href="https://github.com/Gustav-dev97/NodeAPI-BoilerplateExample">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gustav-dev97&repo=NodeAPI-BoilerplateExample&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+          <img align="center" src="https://github-readme-stats-blond-two-95.vercel.app/api/pin/?username=Gustav-dev97&repo=NodeAPI-BoilerplateExample&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
         </a>
     </td>
   </tr>
 </table>
-
 </br>
 
 - A Virtual library which allows you to search and read a series of books [Sapientum](https://sapientum.netlify.app/)
