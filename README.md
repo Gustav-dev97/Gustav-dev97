@@ -27,7 +27,7 @@
 
 🏗️ Interested in software architecture, layered application design, clean and maintainable code, system integration, performance, and usability. <br><br>
 
-☁️ Familiar with **MySQL, PostgreSQL, MongoDB, Git, GitHub, Docker, Kubernetes, Linux, and Google Cloud**, with additional experience in web technologies and interactive development. <br><br>
+☁️ Familiar with **MySQL, PostgreSQL, MongoDB, Git, GitHub, Docker, Linux, and Google Cloud**, with additional experience in web technologies and interactive development. <br><br>
 
 🔐 Particularly interested in **Back-end Development, Full Stack Development, and Cybersecurity**, while continuously expanding my knowledge through academic and personal projects. <br><br>
 
